@@ -32,3 +32,7 @@
     
     $apiResponse = curl_exec($cURLConnection);
     curl_close($cURLConnection);
+
+## License
+
+The MIT License (MIT). Please see [License File](https://github.com/imjiten/simple-oauth1-library/blob/master/LICENSE) for more information.
